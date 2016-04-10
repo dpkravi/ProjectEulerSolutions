@@ -7,7 +7,9 @@ What is the smallest positive number that is evenly divisible by all of the numb
 public class Problem5 {
 
     public static void main(String[] args){
+
         getLargestDivisible(20);
+
     }
 
     static void getLargestDivisible(int k){
